@@ -46,7 +46,7 @@ I have been learning mern stack development since last 6 months in the bootcamp.
 
 <b>Top Repositories</b>
 
-<div width="100%" align="center"><a href="https://github.com/ships97/Unit-2-Project---Tata-Cliq" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=ships97&repo=Unit-2-Project---Tata-Cliq&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/ships97/anthropologie" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=ships97&repo=anthropologie&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+<div width="100%" align="center"><a href="https://github.com/ships97/TATA-CLiQ-Clone" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=ships97&repo=Unit-2-Project---Tata-Cliq&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/ships97/Anthropologie-Clone" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=ships97&repo=anthropologie&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
 
 <br /><br /><br /><br /><br />
 
