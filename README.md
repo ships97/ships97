@@ -1,15 +1,15 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Shipra Pal
 ==================================================================================================================================
 
-Front-End Developer
--------------------
+Full Stack Web Developer
+------------------------
 
-I have been learning mern stack development since last 6 months in the bootcamp. I have more passion for the front end development.
+I have been learning mern stack development since last 6 months in the bootcamp. I have more passion for the full stack web development.
 
 * 🌍  I'm based in India
 * 🖥️  See my portfolio at [https://ships97.github.io/](http://ships97.github.io/)
 * ✉️  You can contact me at [shiprapal97@gmail.com](mailto:shiprapal97@gmail.com)
-* 🧠  I'm learning React
+* 🧠  I'm learning React, MongoDB, Express
 * ⚡  Trekking, Bungee-jumping, Rappel-down
 
 ### Skills
@@ -37,7 +37,7 @@ I have been learning mern stack development since last 6 months in the bootcamp.
 
 ### Socials
 
-<p align="left"> <a href="https://www.github.com/ships97" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/shiprasingh97" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="http://www.medium.com/@shiprapal97" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="32" height="32" /></a></p>
+<p align="left"> <a href="https://www.github.com/ships97" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/shiprasingh97" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="http://www.medium.com/@shiprapal97" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="32" height="32" /></a> <a href="https://youtube.com/@shiprasingh97" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" /></a></p>
 
 ### Badges
 
